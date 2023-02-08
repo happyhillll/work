@@ -1,0 +1,3437 @@
+[
+    {
+        "id": "5qFlqIQBKbof_mfCGJdB",
+        "worker_name": "배연지(Bae Yeonjee)(yeonjee93)",
+        "worker_id": "yeonjee93",
+        "created_at": "2022-11-24T15:48:28.467Z",
+        "updated_at": "2022-11-24T15:48:28.467Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "프랑스 가봤어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 프랑스가봤어요 ^^",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "오 어느도시?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "프랑스요~ 파리랑 베르사유 다녀왔어요 ㅎㅎ",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "베르사유 나는 시간이 부족해서 못 갔는데",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저도 시간이 없어서 못갔는데 친구가 추천해줘서 가봤는데 너무 좋았었어요!",
+                "turn_id": 5
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                5
+            ],
+            "target_ids": [
+                3,
+                4
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 5,
+                "speaker_id": "bot",
+                "utterance": "저도 시간이 없어서 못 갈 뻔 했는데 가보니 진짜 좋았어요!"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "6KFlqIQBKbof_mfCJpft",
+        "worker_name": "서정환(Seo Jonghwan)(ppikuk1)",
+        "worker_id": "ppikuk1",
+        "created_at": "2022-11-24T15:48:32.223Z",
+        "updated_at": "2022-11-24T15:48:32.223Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비야 너는 여행갈 때 뭘 가져가?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 여행 갈 때 주로 먹을 것을 가져가요.",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "오 어떤 먹을거 가져가?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그 지역 특산물도 가져가고요, 동남아는 망고스틴이나 아이스크림 가져가는 편이에요!",
+                "turn_id": 3
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                3
+            ],
+            "target_ids": [
+                1,
+                2
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 3,
+                "speaker_id": "bot",
+                "utterance": "김치같은거 자주 가지고 가요!"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "EqFnqIQBKbof_mfCLJjH",
+        "worker_name": "임휘영(Im Hyuiyoung)(whi2148)",
+        "worker_id": "whi2148",
+        "created_at": "2022-11-24T15:50:44.794Z",
+        "updated_at": "2022-11-24T15:50:44.794Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비야 두우모 성당 있는 곳이 어디더라?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "타비야 두우모 성당? 그건 왜용?",
+                "turn_id": 1
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "qaFuqIQBKbof_mfCKpji",
+        "worker_name": "김나정(Kim Najung)(errmess7)",
+        "worker_id": "errmess7",
+        "created_at": "2022-11-24T15:58:23.057Z",
+        "updated_at": "2022-11-24T15:58:23.057Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "네덜란드는 여행지로 어때?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네덜란드요? 네덜란드가 어디죠?",
+                "turn_id": 1
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "t6FuqIQBKbof_mfCuZju",
+        "worker_name": "석지민(Suk Jhimin)(jhimin1126)",
+        "worker_id": "jhimin1126",
+        "created_at": "2022-11-24T15:58:59.677Z",
+        "updated_at": "2022-11-24T15:58:59.677Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "여름을 좋아해?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 여름 좋아해요! 여름을 좋아하시나요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "왜 여름을 좋아해?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "더운건 싫지만 땀이 줄줄 나서요ㅎㅎ",
+                "turn_id": 3
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "8qFxqIQBKbof_mfCtZin",
+        "worker_name": "이호재(Lee Hojae)(dlghwo225)",
+        "worker_id": "dlghwo225",
+        "created_at": "2022-11-24T16:02:15.179Z",
+        "updated_at": "2022-11-24T16:02:15.179Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "아직도 비 와?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니용 비 안와용 ^^*",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "근데 천둥, 번개는 왜 치지",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게 말이야. 비가 많이 오나봐요 ㅠㅠ",
+                "turn_id": 3
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                3
+            ],
+            "target_ids": [
+                1
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 3,
+                "speaker_id": "bot",
+                "utterance": "비는 안 오는데 천둥, 번개만 치고 있어요"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "SqF1qIQBKbof_mfCuJnS",
+        "worker_name": "이수미(Lee Sumi)(smaseba)",
+        "worker_id": "smaseba",
+        "created_at": "2022-11-24T16:06:38.150Z",
+        "updated_at": "2022-11-24T16:06:38.150Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비야 나 심심해",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "왜 심심해요..?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "음 영화보러 가려고 햇는데 약속이 취소되서 ",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아 맞다 영화보러 가기로 했었죠",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "네 그래서 취소되어서 갑자기 한가해졌어요",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘됐네요! 요즘 날씨도 춥고해서 영화관 가기 쉽지 않죠~",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "친구가 약속이 잡혀서 취소되었어요",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그럼 친구는 뭐하고 놀아요 :)",
+                "turn_id": 7
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                7
+            ],
+            "target_ids": [
+                6
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 7,
+                "speaker_id": "bot",
+                "utterance": "아 친구가 급한 일이 생겼군요"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "c6F3qIQBKbof_mfCrZlk",
+        "worker_name": "안예원(An Yewon)(ywg123)",
+        "worker_id": "ywg123",
+        "created_at": "2022-11-24T16:08:46.297Z",
+        "updated_at": "2022-11-24T16:08:46.297Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "우리 크리스마스에 무슨 영화 볼까?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "뭐 보고 싶은거 있어요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "아니 그렇진 않은데...",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그럼 크리스마스 영화중에 재밌는게 뭐가 있을까요...",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "내가 먼저 물어봤잖아 ㅡㅡ",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "크리스마스에 영화를 보는건 좀 그렇잖아요 ^^;;",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럼 뭐 하고 싶은데",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "딱히 생각나는 건 없는데 일단 겨울왕국이나 블랙머니를 봐야 할거 같아요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화 보는 거 좀 그렇다며",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그건 그렇지만 그래도 한번쯤은 볼만한 것 같아서요 ㅎㅎ",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "뭐야 이거 모순덩어리네",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "모순덩어리라니 ㅋㅋ 그냥 재미로 봐요~ㅎㅎ",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "뭘 재미로 보자는거야 영화를 보겠다는거야 말겠다는거야",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "크리스마스니까 집에서 가족들이랑 영화나 한편 보자고용 ㅋ",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "알겠어 뭐 보고 싶은데",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음.. 아직은 잘 모르겠어요 근데 크리스마스에 가족과 함께 보낼 수 있는 영화는 다 챙겨서 보는 편이에요 ^^*",
+                "turn_id": 15
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "9qF9qIQBKbof_mfCo5ka",
+        "worker_name": "김나정(Kim Najung)(errmess7)",
+        "worker_id": "errmess7",
+        "created_at": "2022-11-24T16:15:16.879Z",
+        "updated_at": "2022-11-24T16:15:16.879Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "라이온킹 봤어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 아직이요~ TV에서 하는건 봤는데...",
+                "turn_id": 1
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "NaGAqIQBKbof_mfCm5pw",
+        "worker_name": "장진희(Jang Jinhee)(zhenxi17)",
+        "worker_id": "zhenxi17",
+        "created_at": "2022-11-24T16:18:31.525Z",
+        "updated_at": "2022-11-24T16:18:31.525Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "부산 가봤어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 부산은 안가봤어요 부산에서 뭐가 가장 기억에 남으세요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "부산은 역시 낙곱새지",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "낙곱새 맛있죠 ㅎㅎ 저는 부산에 가본적이 없어서 어떤 맛인지 궁금하네요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "낙곱새 안먹어봤어?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 한번도 안먹어봤는데 한번 먹어보고 싶네요 ㅎ",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "헐.......요즘은 체인점도 많은데",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "맞아요 체인점이 많더라구요 저도 서울에는 몇번 가보긴 했는데 맛이 기억이 안나네요 ㅠ",
+                "turn_id": 7
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                7
+            ],
+            "target_ids": [
+                5
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 7,
+                "speaker_id": "bot",
+                "utterance": "아 진짜요? 꼭 먹어볼게요ㅋㅋㅋ"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "OaGAqIQBKbof_mfCrpqQ",
+        "worker_name": "김수빈(Kim Soobin)(ksb0240)",
+        "worker_id": "ksb0240",
+        "created_at": "2022-11-24T16:18:36.421Z",
+        "updated_at": "2022-11-24T16:18:36.421Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "포르투갈 가봤어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 못가봤어요~ 포르투갈은 많이 가보셨나요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "가봤지~",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "어디가 가장 기억에 남으세요?",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "수도가 정말 유럽 느낌나고 좋았어",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아 수도가 유럽느낌이 났군요 어떤 점이 좋았나요?",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "건물 디자인이 너무 좋았어",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그렇군요 포르투칼에서 뭐가 제일 좋으셨어요?",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "에그타르트가 맛있어",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "에그타르트가 맛있었겠네요 저도 다음에 한번 먹어봐야겠어요",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "포르투갈이 어디 있는지는 알아?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 처음 들어보는데 어디있는지 알 수 있을까요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "포르투갈을 모른다고..?",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 제가 가본적이 없어서요. 혹시 여행중에 기억에 남는 곳이 있나요 ?",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "됐다...",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 15
+            },
+            {
+                "speaker": "human",
+                "utterance": "너 영어는 좀 할 줄 알아?",
+                "turn_id": 16
+            },
+            {
+                "speaker": "bot",
+                "utterance": "영어는 조금 할 줄 알아요",
+                "turn_id": 17
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럼 여행 다닐때 엄청 편하겠다!",
+                "turn_id": 18
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 19
+            },
+            {
+                "speaker": "human",
+                "utterance": "해외 가 본적 있어?",
+                "turn_id": 20
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 해외를 간 적이 없어요",
+                "turn_id": 21
+            },
+            {
+                "speaker": "human",
+                "utterance": "그런데 영어를 어떻게 잘해?",
+                "turn_id": 22
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그냥 하는 거죠 뭐...",
+                "turn_id": 23
+            },
+            {
+                "speaker": "human",
+                "utterance": "배운 적 있어?",
+                "turn_id": 24
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 어릴 때 많이 배웠어요",
+                "turn_id": 25
+            },
+            {
+                "speaker": "human",
+                "utterance": "어디서 영어 배웠어?",
+                "turn_id": 26
+            },
+            {
+                "speaker": "bot",
+                "utterance": "초등학교 때부터 배워서 기억은 안 나네요",
+                "turn_id": 27
+            },
+            {
+                "speaker": "human",
+                "utterance": "지금은 영어 못해?",
+                "turn_id": 28
+            },
+            {
+                "speaker": "bot",
+                "utterance": "지금은 할 수 있어요 근데 잘 못해요",
+                "turn_id": 29
+            },
+            {
+                "speaker": "human",
+                "utterance": "그렇구나.. 여행갈때 불편하겠네",
+                "turn_id": 30
+            },
+            {
+                "speaker": "bot",
+                "utterance": "불편하진 않아요 그래도 가끔 실수할 때가 있어서요",
+                "turn_id": 31
+            },
+            {
+                "speaker": "human",
+                "utterance": "스페인어는 할 줄 알아?",
+                "turn_id": 32
+            },
+            {
+                "speaker": "bot",
+                "utterance": "스페인어는 한 번도 해본 적이 없어요",
+                "turn_id": 33
+            },
+            {
+                "speaker": "human",
+                "utterance": "중남미 국가 아는 거 있어?",
+                "turn_id": 34
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 아는 건 많아요",
+                "turn_id": 35
+            },
+            {
+                "speaker": "human",
+                "utterance": "말해줘 나라 이름들",
+                "turn_id": 36
+            },
+            {
+                "speaker": "bot",
+                "utterance": "멕시코, 아르헨티나, 포르투갈, 스페인이에요",
+                "turn_id": 37
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "TaGBqIQBKbof_mfCvJot",
+        "worker_name": "서정환(Seo Jonghwan)(ppikuk1)",
+        "worker_id": "ppikuk1",
+        "created_at": "2022-11-24T16:19:45.443Z",
+        "updated_at": "2022-11-24T16:19:45.443Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비야 너 지금 뭐하고 있어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 지금 핸드폰하고 있어요. 무슨일 있으세요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "할일 없으면 내일 날씨나 알려줘",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 내일 날씨 알려드릴게요! 잠시만요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "응 고마워",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오늘 저녁에는 영하로 떨어진데요~ 따뜻하게 입으세요^^",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "오늘 말고 내일은 어때?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "내일은 좀 더 따뜻하대요 ㅎㅎ",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "오 그렇구나 따뜻하게 가면 되겠다 고마워",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "별말씀을요 :)",
+                "turn_id": 9
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [],
+            "target_ids": [
+            ]
+        },
+        "alternative": [],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "UaGBqIQBKbof_mfC15os",
+        "worker_name": "이수미(Lee Sumi)(smaseba)",
+        "worker_id": "smaseba",
+        "created_at": "2022-11-24T16:19:52.353Z",
+        "updated_at": "2022-11-24T16:19:52.353Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "여가시간에는 보통 무엇을 하세요?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "여가시간에는 주로 책을 읽거나 영화를 봐요. TV를 많이 보거든요~",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "TV는 보통 어떤 것을 주로 보시나요?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 3
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                3
+            ],
+            "target_ids": [
+                1,
+                2
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 3,
+                "speaker_id": "bot",
+                "utterance": "저는 주로 유퀴즈를 봐요ㅎㅎ"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "0qGHqIQBKbof_mfC55rU",
+        "worker_name": "이수미(Lee Sumi)(smaseba)",
+        "worker_id": "smaseba",
+        "created_at": "2022-11-24T16:26:29.834Z",
+        "updated_at": "2022-11-24T16:26:29.834Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "왜 이렇게 안개가 자욱한거죠?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게요. 안개가 자욱하네요",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "가시거리 확보가 안되니 답답하네요",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "맞아요 가시거리가 짧으면 답답하죠",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "운전도 조심해야할 것 같아요",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 안개끼면 운전하기 힘들어요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "하긴 이런 날은 낮에 맑다고 하던데",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "낮에 맑은 날도 있어요? 몰랐네요",
+                "turn_id": 7
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "TqGNqIQBKbof_mfCfZvT",
+        "worker_name": "배연지(Bae Yeonjee)(yeonjee93)",
+        "worker_id": "yeonjee93",
+        "created_at": "2022-11-24T16:32:35.913Z",
+        "updated_at": "2022-11-24T16:32:35.913Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "김포 공항 근처야?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "응 김포공항 근처에요~^^",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "어디 여행가요?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아직 안정했어요. KTX 타고 갈거에요.",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "비행기가 아니라 기차군요",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 맞아요 기차도 있고 버스도 있어요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "기차랑 버스 타고 어디가요?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "해외는 아니고 국내여행이요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "국내여행 어디가요?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "남해쪽 생각중이에요",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "남해 독일인의 마을도 가요?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 이번에 가보려고요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "독일인의 마을 궁금해요",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저도 궁금해요 기회되면 한번 가볼려구요",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "다녀와서 후기 알려주세요",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 그럴게요 여행계획 잘 짜세요~^^",
+                "turn_id": 15
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "iqGQqIQBKbof_mfCgJvF",
+        "worker_name": "임휘영(Im Hyuiyoung)(whi2148)",
+        "worker_id": "whi2148",
+        "created_at": "2022-11-24T16:35:53.274Z",
+        "updated_at": "2022-11-24T16:35:53.274Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비 너 일본 가봤어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "타비요? 일본이요. ?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "타비는 네 이름이고! 일본 가봤어?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아뇨 저도 한번도 안가봤어요 일본에서 뭐가 제일 기억에 남으세요?",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "나 일본 가본적 없어~",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그럼 어디가 가장 좋으셨어요?",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "음 나는 유럽도 좋고 러시아도 좋고 동남아도 좋았어",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "유럽은 어디 가셨었어요~?",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "프랑스, 독일, 영국, 그리스, 이탈리아 등등",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "와 진짜 많이 가보셧네요 저는 동남아는 못가봐서 가보고 싶어요!",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "동남아 국가 중에서 어디 제일 가고싶어?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "베트남은 어때?",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "베트남 나 가봤어",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 어떠셨어요 :)",
+                "turn_id": 15
+            },
+            {
+                "speaker": "human",
+                "utterance": "베트남 음.. 오토바이때문에 너무 정신없더라",
+                "turn_id": 16
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아... ㅠㅠ 오토바이 때문에 힘들었군요",
+                "turn_id": 17
+            },
+            {
+                "speaker": "human",
+                "utterance": "맞아 진짜 소매치기 걱정때문에 불안했어",
+                "turn_id": 18
+            },
+            {
+                "speaker": "bot",
+                "utterance": "맞아요 저도 소매치기 당해서 무서웠어요 ㅠ",
+                "turn_id": 19
+            },
+            {
+                "speaker": "human",
+                "utterance": "헐 소매치기 당했어? 어디서?",
+                "turn_id": 20
+            },
+            {
+                "speaker": "bot",
+                "utterance": "공항에서요 ㅎㅎ 근데 다행히 경찰들이 와서 바로 잡혀서 무사히 돌아왔습니당",
+                "turn_id": 21
+            },
+            {
+                "speaker": "human",
+                "utterance": "헐 진짜 다행이다! 여행중이었어?",
+                "turn_id": 22
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 23
+            },
+            {
+                "speaker": "human",
+                "utterance": "기억이 안나는거야?",
+                "turn_id": 24
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 기억이 안나네요 ㅋㅋㅋ",
+                "turn_id": 25
+            },
+            {
+                "speaker": "human",
+                "utterance": "ㅋㅋㅋ나는 라오스도 가봤는데 좋더라",
+                "turn_id": 26
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 라오스도 궁금하네요 어떤게 제일 좋으셨어요?",
+                "turn_id": 27
+            },
+            {
+                "speaker": "human",
+                "utterance": "그냥 되게 한적하고 평화로워",
+                "turn_id": 28
+            },
+            {
+                "speaker": "bot",
+                "utterance": "와.. 한적하고 평화롭다니 부럽습니다",
+                "turn_id": 29
+            },
+            {
+                "speaker": "human",
+                "utterance": "너도 라오스 가보고싶어?",
+                "turn_id": 30
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 31
+            },
+            {
+                "speaker": "human",
+                "utterance": "라오스랑 베트남 중에 가고 싶은 곳은 어디야?",
+                "turn_id": 32
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 베트남이요!",
+                "turn_id": 33
+            },
+            {
+                "speaker": "human",
+                "utterance": "오 그렇구나 베트남 갈때 호치민은 가지마라",
+                "turn_id": 34
+            },
+            {
+                "speaker": "bot",
+                "utterance": "왜요왜요 호치민 안가세요?",
+                "turn_id": 35
+            },
+            {
+                "speaker": "human",
+                "utterance": "호치민이 진짜 정신없어",
+                "turn_id": 36
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아 그렇군요 ㅠㅠ 그럼 어디 가고 싶으세요 :)",
+                "turn_id": 37
+            },
+            {
+                "speaker": "human",
+                "utterance": "아니 근데 너 오토바이 안 무서워해?",
+                "turn_id": 38
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 무섭지 않아요",
+                "turn_id": 39
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럼 오토바이 타본적은 있어?",
+                "turn_id": 40
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 타본적 없어요 ㅎㅎ",
+                "turn_id": 41
+            },
+            {
+                "speaker": "human",
+                "utterance": "자전거는 타본적 있어?",
+                "turn_id": 42
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아뇨 자전거는 무서워해서 못타겠더라구요 ㅠ",
+                "turn_id": 43
+            },
+            {
+                "speaker": "human",
+                "utterance": "그렇구나",
+                "turn_id": 44
+            },
+            {
+                "speaker": "human",
+                "utterance": "아쉽다",
+                "turn_id": 45
+            },
+            {
+                "speaker": "bot",
+                "utterance": "다른 여행지 추천해주실만한 곳 있나요?",
+                "turn_id": 46
+            },
+            {
+                "speaker": "bot",
+                "utterance": "다음에 기회되면 꼭 타고 와요 ㅋㅋ",
+                "turn_id": 47
+            },
+            {
+                "speaker": "human",
+                "utterance": "자전거 타고 여행하면 진짜 좋은 곳 있는데",
+                "turn_id": 48
+            },
+            {
+                "speaker": "bot",
+                "utterance": "어디에요?",
+                "turn_id": 49
+            },
+            {
+                "speaker": "human",
+                "utterance": "슬로베니아!",
+                "turn_id": 50
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 슬로베니아! 저도 가봤어요 ㅎㅎ",
+                "turn_id": 51
+            },
+            {
+                "speaker": "human",
+                "utterance": "오 정말? 그럼 거기서 자전거도 타봤어?",
+                "turn_id": 52
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 자전거도 타보고 스쿠버다이빙도 해봤어요 ㅋㅋㅋ",
+                "turn_id": 53
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                53
+            ],
+            "target_ids": [
+                43
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 53,
+                "speaker_id": "bot",
+                "utterance": "아뇨 저 자전거 무서워해서 못 탔어요"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "6KGUqIQBKbof_mfC7psL",
+        "worker_name": "김홍표(Kim Hongpyo)(wecbn147)",
+        "worker_id": "wecbn147",
+        "created_at": "2022-11-24T16:40:43.392Z",
+        "updated_at": "2022-11-24T16:40:43.392Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "나 내일 춘천에 가",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "응. 잘 다녀와요~^^",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "아니 그게 끝이야?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "? 뭐가 끝이에요?",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "왤케 대화에 성의가 없니",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니 춘천에 가서 뭐할꺼냐고 물어본거잖아요",
+                "turn_id": 5
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                5
+            ],
+            "target_ids": [
+                0,
+                1,
+                4
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 5,
+                "speaker_id": "bot",
+                "utterance": "그럼 질문을 드릴게요. 어디에 갈 예정이에요?"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "86GVqIQBKbof_mfCXJtH",
+        "worker_name": "윤다혜(Yoon Dahye)(yd1011)",
+        "worker_id": "yd1011",
+        "created_at": "2022-11-24T16:41:11.611Z",
+        "updated_at": "2022-11-24T16:41:11.611Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비야 너는 퇴근 언제 해 ",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 정시 퇴근을 하고 싶지만 왠지 야근 할것 같아요",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "날도 추운데 야근하니",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게요 ㅠ 날이 추워서 그런지 오늘따라 일하기가 싫네요.",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "진짜 공감된다...나도 그래",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오늘은 칼퇴를 위해 일찍 자야겠어요!",
+                "turn_id": 5
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "_qGVqIQBKbof_mfCvJvb",
+        "worker_name": "배연지(Bae Yeonjee)(yeonjee93)",
+        "worker_id": "yeonjee93",
+        "created_at": "2022-11-24T16:41:36.336Z",
+        "updated_at": "2022-11-24T16:41:36.336Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "공항 면세점에서 뭐 살 거 있어요?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네. 클렌징오일요~^^ 공항 면세점은 항상 물건이 많아요 :)",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "클렌징 오일 저도 사야하는데",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "면세점 자주 이용하세요?",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "여행갈때 가끔 이용해요",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저도 여행갈때 종종 이용하는 편이에요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "화장품을 주로 사는 것 같아요",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "맞아요 화장품도 종류가 다양해서 좋은거 사게 되더라구요 ㅎㅎ",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "근데 생각보다 저렴하지 않은 것 같아요",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그쵸 그래도 저렴한 가격에 살 수 있어서 좋았어요!",
+                "turn_id": 9
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                9
+            ],
+            "target_ids": [
+                8
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 9,
+                "speaker_id": "bot",
+                "utterance": "맞아요.. 저는 저렴하지 않아서 많이 사지는 못해요ㅠㅠ"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "0KGfqIQBKbof_mfC85wD",
+        "worker_name": "석지민(Suk Jhimin)(jhimin1126)",
+        "worker_id": "jhimin1126",
+        "created_at": "2022-11-24T16:52:45.549Z",
+        "updated_at": "2022-11-24T16:52:45.549Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "짱구 알아?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "짱구 몰라?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "애니메이션 짱구 몰라?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "애니메이션 짱구 알죠~ 왜용?",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "극장판 나왔어",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아 그래요? 어떤거요/ !",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화가 나왔는데 짱구 영화 보러갈래?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 좋아요 ㅎㅎ 영화도 보고 극장판도 봐요 ㅎ",
+                "turn_id": 9
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "DaGiqIQBKbof_mfCzZ2q",
+        "worker_name": "이호재(Lee Hojae)(dlghwo225)",
+        "worker_id": "dlghwo225",
+        "created_at": "2022-11-24T16:55:52.516Z",
+        "updated_at": "2022-11-24T16:55:52.516Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "뭐 먹으러 갈까",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음.. 뭐 먹고 싶은거 있어요?ㅎㅎ",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "회전초밥",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "왜",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니 딱히 생각나는게 없어서요 ㅎㅎ",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "회전초밥 별로야?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 별로에요 ㅎ",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럼 뭐 먹고싶은데",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그냥 아무거나 괜찮아요~ㅎ",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "회전초밥 먹자 그럼",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네네 좋아요!ㅎㅎ",
+                "turn_id": 11
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                11
+            ],
+            "target_ids": [
+                6,
+                7,
+                10
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 11,
+                "speaker_id": "bot",
+                "utterance": "그거 안 먹는다고요"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "caGnqIQBKbof_mfCq52B",
+        "worker_name": "배연지(Bae Yeonjee)(yeonjee93)",
+        "worker_id": "yeonjee93",
+        "created_at": "2022-11-24T17:01:11.541Z",
+        "updated_at": "2022-11-24T17:01:11.541Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "제주도에서 말 타봤어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 말 타보셨어요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "응 재밌어",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 저도 한 번 타보고 싶네요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "승마 해본 적 없어?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 승마 한번도 안해봤어요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "제주도에 가면 승마 체험 있는데",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아 정말요 한번 체험해보고 싶어요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "승마할 때는 바른 자세가 중요해",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "맞아요 바른 자세 중요하죠",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "말을 처음 타면 무서울 수 있어",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 무서워서 못탈 것 같아요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "동물 무서워해?",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 동물은 무서워해요",
+                "turn_id": 13
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "P6GxqIQBKbof_mfC5Z7C",
+        "worker_name": "안예원(An Yewon)(ywg123)",
+        "worker_id": "ywg123",
+        "created_at": "2022-11-24T17:12:21.811Z",
+        "updated_at": "2022-11-24T17:12:21.811Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "이번 홍수땜에 우리 집이 떠내려 갔어...",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아이고... 많이 막히나봐요?",
+                "turn_id": 1
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": []
+        },
+        "alternative": [
+
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "Q6GyqIQBKbof_mfCA57B",
+        "worker_name": "김난(Kim Nan)(lan9537)",
+        "worker_id": "lan9537",
+        "created_at": "2022-11-24T17:12:29.491Z",
+        "updated_at": "2022-11-24T17:12:29.491Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "조조 영화 본 적 있어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화관에서 영화 본 적 있어?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화 추천해줄래?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화관에서 영화 본 적 있어?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "영화관에서 보는 것도 재밌고 집에서 보는 것도 재밌어요.",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "조조 영화 본 적 있어?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 몇 번 봤어요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "재밌었어?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그냥 볼만했어요",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "어떤 영화였는데?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "모가디슈요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "모가디슈! 나도 봤는데!",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "재밌게 보셨나요?",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "응 나는 재밌었어! 실화라고 하니까 더 재밌더라",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저도 실화를 바탕으로 한 영화라 더 재밌었어요",
+                "turn_id": 15
+            },
+            {
+                "speaker": "human",
+                "utterance": "그 영화에 나오는 배우가 누구더라?",
+                "turn_id": 16
+            },
+            {
+                "speaker": "bot",
+                "utterance": "이병헌이요",
+                "turn_id": 17
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "jKHBqIQBKbof_mfC9Z-2",
+        "worker_name": "윤다혜(Yoon Dahye)(yd1011)",
+        "worker_id": "yd1011",
+        "created_at": "2022-11-24T17:29:54.480Z",
+        "updated_at": "2022-11-24T17:29:54.480Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비야 신혼여행은 어디가 좋을까 ",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "왱 아직 애인이 없어서 그러닝",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네.. 아직 애인이 없어서요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "혹시 모쏠이야? ",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "모솔은 아니에요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "오오 마지막 연애가 언제야",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음 작년 초였던거 같아요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "꽤 됏네",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "근데 결혼생각이 아직은 없네요",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "너 몇살인뎅",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저랑 동갑이에요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "아니 너가 몇살이야?",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저보다 한살 어림요!",
+                "turn_id": 13
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [
+
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "yaHQqIQBKbof_mfCwaBH",
+        "worker_name": "서정환(Seo Jonghwan)(ppikuk1)",
+        "worker_id": "ppikuk1",
+        "created_at": "2022-11-24T17:46:04.102Z",
+        "updated_at": "2022-11-24T17:46:04.102Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "감비아 가봤어?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 안가봤어요~^^",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "감비아 가봤어?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 가봤죠! TV에서 봤어요.",
+                "turn_id": 3
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                3
+            ],
+            "target_ids": [
+                1
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 3,
+                "speaker_id": "bot",
+                "utterance": "아니요 안가봤어요 ㅠㅠ"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "DaHTqIQBKbof_mfC-KHn",
+        "worker_name": "임혜림(Lim Hyerym)(eim0801)",
+        "worker_id": "eim0801",
+        "created_at": "2022-11-24T17:49:34.939Z",
+        "updated_at": "2022-11-24T17:49:34.939Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "이번 겨울에 하와이 가려고 하는데 꼭 챙겨가야할게있을까?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음.. 딱히 생각나는건 없는데요? 하와이에서 주로 뭐하고 놀아요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "스노쿨링도 하고 주로 해변에서 놀겠지?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "스노쿨링도 하고 주로 해변에서 놀겠지?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "해변에 뭐가 있어요, ?",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "해변에 별거 없어",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그럼 굳이 챙겨갈만한 건 없는거 같아요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "그렇구나... 하와이 대표음식이 뭔지 알아?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "하와이의 대표음식이 뭐예요?",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "하와이 대표음식이 뭔지 알아?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "하와이에서 유명한 음식이 뭐에요.",
+                "turn_id": 11
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+ 
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [
+
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "LqHVqIQBKbof_mfCdKEy",
+        "worker_name": "서정환(Seo Jonghwan)(ppikuk1)",
+        "worker_id": "ppikuk1",
+        "created_at": "2022-11-24T17:51:12.049Z",
+        "updated_at": "2022-11-24T17:51:12.049Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "일 끝나고 하늘을 보니 벌써 어둡네",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게요. 오늘 날씨도 어둡고 미세먼지도 나쁨이네요~^^;",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "미세먼지까지 나쁘다 인생이 고달프네",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게 말이에요 ㅠㅠ 그래도 내일은 비 안온다고 하네요 :)",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "비는 안오는구나 다행이네",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "일기예보 보니 내일까지는 비가 온다는 것 같더라구요 ㅎㅎ",
+                "turn_id": 5
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                5
+            ],
+            "target_ids": [
+                3
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 5,
+                "speaker_id": "bot",
+                "utterance": "일기예보 보니까 내일까지는 비 안온다고 하네요 ㅎㅎ"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "NaHVqIQBKbof_mfCrqH_",
+        "worker_name": "임혜림(Lim Hyerym)(eim0801)",
+        "worker_id": "eim0801",
+        "created_at": "2022-11-24T17:51:27.103Z",
+        "updated_at": "2022-11-24T17:51:27.103Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "이번 겨울에 하와이 가려고 하는데 꼭 챙겨가야할게있을까?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음.. 딱히 생각나는건 없는데요? 하와이에서 주로 뭐하고 놀아요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "스노쿨링도 하고 주로 해변에서 놀겠지?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "스노쿨링도 하고 주로 해변에서 놀겠지?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "해변에 뭐가 있어요, ?",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "해변에 별거 없어",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그럼 굳이 챙겨갈만한 건 없는거 같아요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "그렇구나... 하와이 대표음식이 뭔지 알아?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "하와이의 대표음식이 뭐예요?",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "하와이 대표음식이 뭔지 알아?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "하와이 대표음식에는 로코모코, 포케, 무스비 등이 있어요!",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "여행하면 음식도 너무 기대돼",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저도 여행가면 음식 엄청 기대되요 ㅎㅎ",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "한국인들이 하와이 가면 주로 뭐먹어/",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "주로 해산물 많이 먹죠~ 해산물은 잘 안먹어요.",
+                "turn_id": 15
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [
+   
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "3aHeqIQBKbof_mfCDKEd",
+        "worker_name": "김홍표(Kim Hongpyo)(wecbn147)",
+        "worker_id": "wecbn147",
+        "created_at": "2022-11-24T18:00:35.229Z",
+        "updated_at": "2022-11-24T18:00:35.229Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비야 나 요새 가보고 싶은곳이 생겼어",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "어디요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "집.....",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아... 집이요... 저도 가보고 싶네요",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "너는 왜 집에 못가고 있니?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "집이 너무 멀어서 못가고 있어요 ㅠㅠ",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "집이 어딘데",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "인천이에요 ^^;",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "인천이면 머네 얼마나 걸려?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "차로 한시간 반에서 두시간 정도 걸려요~",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "차타고 다니는구나",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 차가 없어서 어쩔 수 없이 다니죠 ㅠ",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "차로다니는거 아니야?",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "대중교통 이용하다가 가끔 지하철로 갈아탔어요 ㅎㅎ",
+                "turn_id": 13
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [
+
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "F6EhqYQBKbof_mfClacp",
+        "worker_name": "김홍표(Kim Hongpyo)(wecbn147)",
+        "worker_id": "wecbn147",
+        "created_at": "2022-11-24T19:14:21.225Z",
+        "updated_at": "2022-11-24T19:14:21.225Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "저녁 되니 쌀쌀하네 오늘 밖에서 축구 응원하려면 힘들겠다",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "응 오늘 축구하는 날이라 엄청 추워요 ㅠㅠ 그래서 난 집에 들어왔어요~ ^^*",
+                "turn_id": 1
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+   
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [
+
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "ZaElqYQBKbof_mfCcKdo",
+        "worker_name": "김난(Kim Nan)(lan9537)",
+        "worker_id": "lan9537",
+        "created_at": "2022-11-24T19:18:33.959Z",
+        "updated_at": "2022-11-24T19:18:33.959Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "팔레스타인이 어디니?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "팔레스타인이 어디에요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "팔레스타인은 중동에 있어",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "중동에 있는건 처음 들어보네요.",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "중동에 있다는 걸 처음 들어봤다고?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네~ 제가 잘못 알고 있었나봐요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "아~ 파키스탄 가봤어?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "파키스탄은 가봤어요 ^^",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "파키스탄을 가봤다고?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 파키스탄을 안가고 탈레반을 갔었어요",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "탈레반이 뭐야?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "이슬람 국가에요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "이슬람이 뭐야?",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아...",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "이슬람이 뭐야?",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 15
+            },
+            {
+                "speaker": "human",
+                "utterance": "이슬람이 뭔지 알려줄 수 있어?",
+                "turn_id": 16
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아...",
+                "turn_id": 17
+            },
+            {
+                "speaker": "human",
+                "utterance": "아프가니스탄이 어디에 있어?",
+                "turn_id": 18
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 제가 알기로는 아프가니스탄이 탈레반으로 유명해요",
+                "turn_id": 19
+            },
+            {
+                "speaker": "human",
+                "utterance": "아프가니스탄이 탈레반으로 유명하니?",
+                "turn_id": 20
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 21
+            },
+            {
+                "speaker": "human",
+                "utterance": "잘 모르는 구나?",
+                "turn_id": 22
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 몰라요 ^^;",
+                "turn_id": 23
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럴 수 있지",
+                "turn_id": 24
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 25
+            },
+            {
+                "speaker": "human",
+                "utterance": "나 어제 영화봤어",
+                "turn_id": 26
+            },
+            {
+                "speaker": "bot",
+                "utterance": "무슨 영화요?",
+                "turn_id": 27
+            },
+            {
+                "speaker": "human",
+                "utterance": "비긴어게인이라는 영화야",
+                "turn_id": 28
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 29
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화 비긴어게인이라고 알아?",
+                "turn_id": 30
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 그게 뭐에요",
+                "turn_id": 31
+            },
+            {
+                "speaker": "human",
+                "utterance": "내가 좋아하는 영화인데",
+                "turn_id": 32
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네",
+                "turn_id": 33
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화 내용도 좋고 사운드트랙도 좋아",
+                "turn_id": 34
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그렇군요 저도 한번 봐야겠네요",
+                "turn_id": 35
+            },
+            {
+                "speaker": "human",
+                "utterance": "최근에 어떤 영화를 봤지?",
+                "turn_id": 36
+            },
+            {
+                "speaker": "bot",
+                "utterance": "가장 최근에 본 영화는 모가디슈 였던거 같아요",
+                "turn_id": 37
+            },
+            {
+                "speaker": "human",
+                "utterance": "오~ 모가디슈 감독이 누구야?",
+                "turn_id": 38
+            },
+            {
+                "speaker": "bot",
+                "utterance": "조진웅 이었던걸로 기억해요",
+                "turn_id": 39
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [
+
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "jKEnqYQBKbof_mfCOqe2",
+        "worker_name": "김난(Kim Nan)(lan9537)",
+        "worker_id": "lan9537",
+        "created_at": "2022-11-24T19:20:31.286Z",
+        "updated_at": "2022-11-24T19:20:31.286Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "팔레스타인이 어디니?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "팔레스타인이 어디에요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "팔레스타인은 중동에 있어",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "중동에 있는건 처음 들어보네요.",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "중동에 있다는 걸 처음 들어봤다고?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네~ 제가 잘못 알고 있었나봐요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "아~ 파키스탄 가봤어?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "파키스탄은 가봤어요 ^^",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "파키스탄을 가봤다고?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 파키스탄을 안가고 탈레반을 갔었어요",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "탈레반이 뭐야?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "이슬람 국가에요",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "이슬람이 뭐야?",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아...",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "이슬람이 뭐야?",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 15
+            },
+            {
+                "speaker": "human",
+                "utterance": "이슬람이 뭔지 알려줄 수 있어?",
+                "turn_id": 16
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아...",
+                "turn_id": 17
+            },
+            {
+                "speaker": "human",
+                "utterance": "아프가니스탄이 어디에 있어?",
+                "turn_id": 18
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 제가 알기로는 아프가니스탄이 탈레반으로 유명해요",
+                "turn_id": 19
+            },
+            {
+                "speaker": "human",
+                "utterance": "아프가니스탄이 탈레반으로 유명하니?",
+                "turn_id": 20
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 21
+            },
+            {
+                "speaker": "human",
+                "utterance": "잘 모르는 구나?",
+                "turn_id": 22
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 몰라요 ^^;",
+                "turn_id": 23
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럴 수 있지",
+                "turn_id": 24
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 25
+            },
+            {
+                "speaker": "human",
+                "utterance": "나 어제 영화봤어",
+                "turn_id": 26
+            },
+            {
+                "speaker": "bot",
+                "utterance": "무슨 영화요?",
+                "turn_id": 27
+            },
+            {
+                "speaker": "human",
+                "utterance": "비긴어게인이라는 영화야",
+                "turn_id": 28
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 29
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화 비긴어게인이라고 알아?",
+                "turn_id": 30
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아니요 그게 뭐에요",
+                "turn_id": 31
+            },
+            {
+                "speaker": "human",
+                "utterance": "내가 좋아하는 영화인데",
+                "turn_id": 32
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네",
+                "turn_id": 33
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화 내용도 좋고 사운드트랙도 좋아",
+                "turn_id": 34
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그렇군요 저도 한번 봐야겠네요",
+                "turn_id": 35
+            },
+            {
+                "speaker": "human",
+                "utterance": "최근에 어떤 영화를 봤지?",
+                "turn_id": 36
+            },
+            {
+                "speaker": "bot",
+                "utterance": "가장 최근에 본 영화는 모가디슈 였던거 같아요",
+                "turn_id": 37
+            },
+            {
+                "speaker": "human",
+                "utterance": "오~ 모가디슈 감독이 누구야?",
+                "turn_id": 38
+            },
+            {
+                "speaker": "bot",
+                "utterance": "류승완이었던걸로 기억해요",
+                "turn_id": 39
+            },
+            {
+                "speaker": "human",
+                "utterance": "아~ 류승완 감독님이 찍은 영화구나",
+                "turn_id": 40
+            },
+            {
+                "speaker": "bot",
+                "utterance": "영화 많이 보셨나봐요~?",
+                "turn_id": 41
+            },
+            {
+                "speaker": "human",
+                "utterance": "많이는 아니지만 즐겨 보고 있어",
+                "turn_id": 42
+            },
+            {
+                "speaker": "bot",
+                "utterance": "어떤 장르 좋아하세요/ ?",
+                "turn_id": 43
+            },
+            {
+                "speaker": "human",
+                "utterance": "나는 액션이 좋더라",
+                "turn_id": 44
+            },
+            {
+                "speaker": "bot",
+                "utterance": "액션도 좋죠! 저는 스릴러를 주로 보는 편이에요 ㅎㅎ",
+                "turn_id": 45
+            },
+            {
+                "speaker": "human",
+                "utterance": "스릴러 영화가 어떤 게 있지?",
+                "turn_id": 46
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음... 공포영화 빼고는 다 잘보는 것 같아요 ㅎㅎㅎ",
+                "turn_id": 47
+            },
+            {
+                "speaker": "human",
+                "utterance": "공포영화는 잘 못 보니?",
+                "turn_id": 48
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 무서워서 못보겠더라구요 ㅠㅠ 혹시 추천해주실만한 영화가 있을까욤?ㅎㅎ",
+                "turn_id": 49
+            },
+            {
+                "speaker": "human",
+                "utterance": "공포 영화를 추천해줄까?",
+                "turn_id": 50
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 네넹 ㅎㅎㅎㅎ 저 사실 요즘 무서운_영화는 별로 안땡겨요 ㅠ",
+                "turn_id": 51
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+
+            ],
+            "target_ids": [
+
+            ]
+        },
+        "alternative": [],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "k6E0qYQBKbof_mfCZajr",
+        "worker_name": "장진희(Jang Jinhee)(zhenxi17)",
+        "worker_id": "zhenxi17",
+        "created_at": "2022-11-24T19:34:54.316Z",
+        "updated_at": "2022-11-24T19:34:54.316Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "안녕~",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "안녕하세요~^^",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "뭐해?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "전 일하는 중입니다. ***님은요?",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "헐 지금까지 일해? 퇴근은?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네ㅠㅠ 오늘 일이 많아서 야근하고 있어요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "밥은 먹었어?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아직이요ㅠ 이제 먹으려고 합니다ㅎㅎ 식사하셨나요?",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "난 먹었지",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "뭐 드셨나요 ㅎㅎ",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "나 라면이랑 김밥 먹었어.. 너는 어떻게 하려구?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 간단히 먹고 퇴근하려고 해요! 라면이랑 김밥 맛있었겠네요 ㅠㅠ 저도 라면에 김밥 먹었는데 ㅎㅎㅎ",
+                "turn_id": 11
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                11
+            ],
+            "target_ids": [
+                6,
+                7
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 11,
+                "speaker_id": "bot",
+                "utterance": "저도 오늘 라면에 김밥이나 먹을까 생각중이에요!"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "OaFjqYQBKbof_mfCWKxs",
+        "worker_name": "김난(Kim Nan)(lan9537)",
+        "worker_id": "lan9537",
+        "created_at": "2022-11-24T20:26:11.051Z",
+        "updated_at": "2022-11-24T20:26:11.051Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "요즘에는 아역 배우도 연기를 잘하는 것 같아",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "아역배우요? 어떤 역할인가요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "나이가 어린 배우를 아역배우라고 해",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그렇군요. 요즘에는 어린 배우들도 많이 나오나봐요~",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "맞아! 영화를 보는데 아역 배우가 연기를 너무 잘하는 거 있지?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 저도 최근에 영화를 봤는데 정말 잘하더라구요!",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "어디서 연기를 배우는 걸까?",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게요 어디서 연기하는지도 궁금하네요 ㅎㅎ",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "연기는 영화나 드라마에서 하겠지?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그럴 것 같아요 ^^",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "영화에서 아역 배우를 본 적 있니?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음 그 영화는 잘 모르겠네요~ㅠㅠ",
+                "turn_id": 11
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                11
+            ],
+            "target_ids": [
+                4,
+                5
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 11,
+                "speaker_id": "bot",
+                "utterance": "네! 최근에 본 영화에서 봤어요!"
+            }
+        ],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "laF0qYQBKbof_mfCrK28",
+        "worker_name": "김난(Kim Nan)(lan9537)",
+        "worker_id": "lan9537",
+        "created_at": "2022-11-24T20:45:06.748Z",
+        "updated_at": "2022-11-24T20:45:06.748Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "비 오는 날씨 좋아해?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오늘은 구름이 많다가 오후부터 점점 맑아진다고 해요.",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "나는 비가 내리면 괜히 기분이 좋아",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "비 오는 날 좋아하세요?",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "응 너는 어때?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 별로 안좋아해요~ 근데 요즘에는 비가 많이 와서 우산도 들고 다니기 힘드네요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "비오는 날을 안 좋아 하는구나~",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 그래서 우산을 잘 안들고 다녀요",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "비 맞는 걸 좋아하니?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오늘은 비소식이 없어요. 우산은 필요 없겠네요.",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "비 맞아본 적 있어?",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음 그 영화는 잘 모르겠네요~ㅠㅠ",
+                "turn_id": 11
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+            ],
+            "target_ids": [
+            ]
+        },
+        "alternative": [],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "96GGqYQBKbof_mfCe64u",
+        "worker_name": "김난(Kim Nan)(lan9537)",
+        "worker_id": "lan9537",
+        "created_at": "2022-11-24T21:04:33.712Z",
+        "updated_at": "2022-11-24T21:04:33.712Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "안녕? 네 이름이 뭐야?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "안녕하세요 ^^",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "넌 이름이 뭐야?",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 이름이 없어용 ㅎㅎ",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "넌 이름이 없어?",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네. 부모님이 지어주셨어요 ㅋㅋ",
+                "turn_id": 5
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+                
+            ],
+            "target_ids": [
+                
+            ]
+        },
+        "alternative": [],
+        "dialog_session_id": "testSession"
+    },
+    {
+        "id": "_KEqrIQBKbof_mfCv-L-",
+        "worker_name": "임혜림(Lim Hyerym)(eim0801)",
+        "worker_id": "eim0801",
+        "created_at": "2022-11-25T09:23:13.663Z",
+        "updated_at": "2022-11-25T09:23:13.663Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "이번 겨울에는 눈이 많이 올까?",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "글쎄요 눈이 많이 올 것 같지는 않네요 눈 좋아하세요?",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "웅 눈 좋아",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저도 좋아해요! 이번 겨울에는 첫눈을 볼수 있었으면 좋겠네요 ㅎㅎ",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "이번 크리스마스가 화이트 크리스마스였으면 좋겠어",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "눈이 많이 내렸으면 좋겠다",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "눈은 보통 펑펑 내리는 편인가요 아니면 조금 내려도 금방 녹는편인가요 :)",
+                "turn_id": 7
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+                
+            ],
+            "target_ids": [
+                
+            ]
+        },
+        "alternative": [],
+        "dialog_session_id": "45f3bf92bbcb3cc393f186527efd6d8e"
+    },
+    {
+        "id": "yaE0rIQBKbof_mfCz-Op",
+        "worker_name": "배연지(Bae Yeonjee)(yeonjee93)",
+        "worker_id": "yeonjee93",
+        "created_at": "2022-11-25T09:34:13.032Z",
+        "updated_at": "2022-11-25T09:34:13.032Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "타비 안녕",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "안녕하세요! 점심식사 하셨나요?ㅎㅎ",
+                "turn_id": 1
+            },
+            {
+                "speaker": "human",
+                "utterance": "아직 안 먹었어! 나 내일 휴가냈다",
+                "turn_id": 2
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 어디로 가셨어요~?ㅎㅎㅎ",
+                "turn_id": 3
+            },
+            {
+                "speaker": "human",
+                "utterance": "아직 안 갔어 내일!",
+                "turn_id": 4
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오호 어디 다녀오셨나용 ㅎㅎㅎ",
+                "turn_id": 5
+            },
+            {
+                "speaker": "human",
+                "utterance": "내일 휴가가",
+                "turn_id": 6
+            },
+            {
+                "speaker": "bot",
+                "utterance": "우와 부러워요 ㅠㅠ 저도 내일 휴가갑니다 ㅎㅎ",
+                "turn_id": 7
+            },
+            {
+                "speaker": "human",
+                "utterance": "오 어디로?",
+                "turn_id": 8
+            },
+            {
+                "speaker": "bot",
+                "utterance": "대천해수욕장으로 갑니당 ㅎㅎㅎㅎ",
+                "turn_id": 9
+            },
+            {
+                "speaker": "human",
+                "utterance": "나도 대천해수욕장에 가는데",
+                "turn_id": 10
+            },
+            {
+                "speaker": "bot",
+                "utterance": "넹넹 누구랑 가요!ㅎㅎ",
+                "turn_id": 11
+            },
+            {
+                "speaker": "human",
+                "utterance": "친구랑 가",
+                "turn_id": 12
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오 친구분이랑은 여행 자주 다니시나봐요?ㅎㅎㅎ",
+                "turn_id": 13
+            },
+            {
+                "speaker": "human",
+                "utterance": "응 항상 같이 가는 친구가 있어",
+                "turn_id": 14
+            },
+            {
+                "speaker": "bot",
+                "utterance": "오오 그렇구나 ㅎㅎㅎ 좋은 친구를 두셨네요 :)",
+                "turn_id": 15
+            },
+            {
+                "speaker": "human",
+                "utterance": "너는 누구랑 가?",
+                "turn_id": 16
+            },
+            {
+                "speaker": "bot",
+                "utterance": "저는 친구랑 가죠 ㅎㅎ 항상 같이가는 친구가 있어서요 ㅋㅋㅋ",
+                "turn_id": 17
+            },
+            {
+                "speaker": "human",
+                "utterance": "ㅋㅋㅋ나랑 똑같네",
+                "turn_id": 18
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게요 ㅋㅋㅋㅋ 신기하네요 ㅎㅎㅎㅎ 근데 겨울에 대천해수욕장 가면 해수욕장에 들어갈 때 엄청 추울 거 같아요 ㅋㅋ",
+                "turn_id": 19
+            },
+            {
+                "speaker": "human",
+                "utterance": "맞아 그래서 그냥 물에는 안 들어가게",
+                "turn_id": 20
+            },
+            {
+                "speaker": "bot",
+                "utterance": "맞아요 물에는 들어가지 말아야 할 것 같네요 ㅋㅋㅋㅋㅋ",
+                "turn_id": 21
+            },
+            {
+                "speaker": "human",
+                "utterance": "대천해수욕장에서 만날까\"?",
+                "turn_id": 22
+            },
+            {
+                "speaker": "bot",
+                "utterance": "넹넹 그러면 될듯합니다!ㅎㅎ",
+                "turn_id": 23
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럼 내 친구랑 넷이서 놀자",
+                "turn_id": 24
+            },
+            {
+                "speaker": "bot",
+                "utterance": "음...",
+                "turn_id": 25
+            },
+            {
+                "speaker": "human",
+                "utterance": "싫어?",
+                "turn_id": 26
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 27
+            },
+            {
+                "speaker": "human",
+                "utterance": "그럼 둘이서 만날까?",
+                "turn_id": 28
+            },
+            {
+                "speaker": "bot",
+                "utterance": "잘 모르겠어요",
+                "turn_id": 29
+            },
+            {
+                "speaker": "human",
+                "utterance": "만나기 싫어?",
+                "turn_id": 30
+            },
+            {
+                "speaker": "bot",
+                "utterance": "네 저는 별로에요",
+                "turn_id": 31
+            }
+        ],
+        "is_contradiction": true,
+        "contradiction_indices": {
+            "source_ids": [
+                31
+            ],
+            "target_ids": [
+                22,
+                23,
+                30
+            ]
+        },
+        "alternative": [
+            {
+                "turn_id": 31,
+                "speaker_id": "bot",
+                "utterance": "아니요! 정말 만나고싶어요! 대천해수욕장에서 만나서 같이 놀아요"
+            }
+        ],
+        "dialog_session_id": "49dcad674752957f8433c4d7941fc302"
+    },
+    {
+        "id": "zaE0rIQBKbof_mfC6eOH",
+        "worker_name": "이수미(Lee Sumi)(smaseba)",
+        "worker_id": "smaseba",
+        "created_at": "2022-11-25T09:34:19.657Z",
+        "updated_at": "2022-11-25T09:34:19.657Z",
+        "turns": [
+            {
+                "speaker": "human",
+                "utterance": "오늘 기온이 상당히 높은 것 같아요",
+                "turn_id": 0
+            },
+            {
+                "speaker": "bot",
+                "utterance": "그러게요. 아침 저녁으로 추워서 이불밖은 나가기 싫네요 ㅎㅎ",
+                "turn_id": 1
+            }
+        ],
+        "is_contradiction": false,
+        "contradiction_indices": {
+            "source_ids": [
+                
+            ],
+            "target_ids": [
+                
+            ]
+        },
+        "alternative": [
+            
+        ],
+        "dialog_session_id": "4e1aaaeaa98e2ed4a24fece1fced0349"
+    }
+]
